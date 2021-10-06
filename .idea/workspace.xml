@@ -5,29 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb6c255c-ee85-4d38-ab18-5952e0ace2d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/order-summary-component-main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README-template.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/active-states.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/desktop-design.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/desktop-preview.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/mobile-design.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icon-music.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/illustration-hero.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pattern-background-desktop.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pattern-background-mobile.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style-guide.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../stats-preview-card-component-main/stats-preview-card-component-main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -73,7 +53,8 @@
       <option name="presentableId" value="Default" />
       <updated>1633485245522</updated>
       <workItem from="1633485246681" duration="21000" />
-      <workItem from="1633530794983" duration="8628000" />
+      <workItem from="1633530794983" duration="9636000" />
+      <workItem from="1633545172664" duration="156000" />
     </task>
     <servers />
   </component>
@@ -90,5 +71,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
